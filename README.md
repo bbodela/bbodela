@@ -5,4 +5,4 @@
 <!--graywhite, buefy-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbodela&layout=compact&theme=flag-india)](https://github.com/bbodela)
-<a href="https://velog.io/@bbodela" title="Visit bbodela's blog"><img src="https://www.freeiconspng.com/uploads/blogger-logo-icon-png-22.png" width="35" height="25" alt="Icon Blogger Logo Png" /></a>
+<a href="https://velog.io/@bbodela" title="Visit bbodela's blog"><img src="https://www.freeiconspng.com/uploads/blogger-logo-icon-png-22.png" width="40" alt="Icon Blogger Logo Png" /></a>
