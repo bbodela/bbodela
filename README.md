@@ -29,7 +29,7 @@
 [Github]: https://en.wikipedia.org/wiki/GitHub
 
 <br />
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbodela&count_private=true&show_icons=true&theme=flag-india&hide=stars,issues)](https://github.com/bbodela)
 <!--graywhite, buefy-->
-
