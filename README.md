@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Visit bbodela's blog" width="29px" src="https://www.freeiconspng.com/uploads/blogger-logo-icon-png-22.png" />](https://velog.io/@bbodela)[<img align="left" alt="Instagram" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bbodela)
+[<img align="left" alt="Visit bbodela's blog" width="29px" src="https://www.freeiconspng.com/uploads/blogger-logo-icon-png-22.png" />](https://velog.io/@bbodela)
 <br />
 
 ### Skills, Tools:
@@ -28,6 +28,7 @@
 [Git]: https://en.wikipedia.org/wiki/Git
 [Github]: https://en.wikipedia.org/wiki/GitHub
 
+<br />
 <br />
 <br />
 
