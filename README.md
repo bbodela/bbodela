@@ -9,8 +9,5 @@
 <br />
 <center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbodela&layout=compact&theme=flag-india)](https://github.com/bbodela)
-</center>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbodela&count_private=true&show_icons=true&theme=flag-india&hide=stars,issues)](https://github.com/bbodela)
 <!--graywhite, buefy-->
