@@ -8,6 +8,7 @@
 [<img align="left" alt="Visit bbodela's blog" width="35px" src="https://www.freeiconspng.com/uploads/blogger-logo-icon-png-22.png" />](https://velog.io/@bbodela)
 <br />
 
+
 ### Skills, Tools:
 
 [<img align="left" alt="JavaScript" width="29px" src="https://user-images.githubusercontent.com/59829298/99529068-98edc880-29e2-11eb-8930-9fb0692e5a64.png" />][JavaScript]
@@ -28,6 +29,7 @@
 [Git]: https://en.wikipedia.org/wiki/Git
 [Github]: https://en.wikipedia.org/wiki/GitHub
 
+<br /> 
 <br />
 <br />
 <br />
