@@ -6,33 +6,3 @@
 ### Connect with me:
 
 [<img align="left" alt="Visit bbodela's blog" width="35px" src="https://www.freeiconspng.com/uploads/blogger-logo-icon-png-22.png" />](https://velog.io/@bbodela)
-<br />
-
-
-### Skills, Tools:
-
-[<img align="left" alt="JavaScript" width="29px" src="https://user-images.githubusercontent.com/59829298/99529068-98edc880-29e2-11eb-8930-9fb0692e5a64.png" />][JavaScript]
-[<img align="left" alt="NodeJS" width="31px" src="https://user-images.githubusercontent.com/59829298/99530621-e834f880-29e4-11eb-8a1e-7810bda777ec.png" />][NodeJS]
-[<img align="left" alt="SQL" width="36px" src="https://user-images.githubusercontent.com/59829298/99529344-fb46c900-29e2-11eb-9ea2-c04c4cb348ce.png" />][SQL]
-[<img align="left" alt="AWS" width="36px" src="https://user-images.githubusercontent.com/59829298/99529354-ff72e680-29e2-11eb-9a9b-ed9d8195a534.png" />][AWS]
-[<img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/59829298/99529349-fe41b980-29e2-11eb-95bf-f4f77df7be64.png" />][Git]
-[<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/59829298/99529346-fbdf5f80-29e2-11eb-80e0-1e446eb0a739.png" />][Github]
-[<img align="left" alt="Linux" width="34px" src="https://user-images.githubusercontent.com/59829298/99529353-feda5000-29e2-11eb-839a-47509741eb5b.png" />][Linux]
-[<img align="left" alt="Terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][Terminal]
-
-[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
-[NodeJS]:https://en.wikipedia.org/wiki/Node.js
-[SQL]: https://en.wikipedia.org/wiki/SQL
-[AWS]: https://en.wikipedia.org/wiki/Amazon_Web_Services
-[Linux]: https://en.wikipedia.org/wiki/Linux
-[Terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal
-[Git]: https://en.wikipedia.org/wiki/Git
-[Github]: https://en.wikipedia.org/wiki/GitHub
-
-<br /> 
-<br />
-<br />
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbodela&count_private=true&show_icons=true&theme=flag-india&hide=stars,issues)](https://github.com/bbodela)
-<!--graywhite, buefy-->
